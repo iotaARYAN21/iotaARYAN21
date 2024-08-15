@@ -37,7 +37,7 @@ I'm always eager to learn and embrace new challenges in the tech world🚀...<br
 </p>
 
 <p align="left"> 
-<a href="https://leetcode.com/112301037/"><img width="48%" src="https://leetcode.card.workers.dev/k_srirama_srikar?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+<a href="https://leetcode.com/112301037/"><img width="48%" src="https://leetcode.card.workers.dev/112301037?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p> 
 
 
