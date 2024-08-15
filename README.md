@@ -13,7 +13,7 @@ I'm always eager to learn and embrace new challenges in the tech world🚀...<br
 
 ### Stats:
 
-![](https://komarev.com/ghpvc/?username=Iambeastofhell&color=blueviolt&style=plastic&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Iambeastofhell&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
 <br>
 
 <p align="left>
