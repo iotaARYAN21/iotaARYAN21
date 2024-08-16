@@ -4,7 +4,7 @@
 <br>
 I have a keen interest in programming and love to learn new languages💻...<br>
 I'm quite passionate about learning and sharing my knowledge.<br>
-I'm particularly passionate about C++ and Python, and I enjoy diving into web development and game development. <br>
+I'm particularly passionate about Python and C++, and I enjoy diving into web development and game development. <br>
 I'm always eager to learn and embrace new challenges in the tech world🚀...<br></div>
 
 
