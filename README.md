@@ -1,62 +1,66 @@
-# Hi! I’m ARYAN✨!!
-<h3> A sophomore at Indian Institute of Technology, Palakkad pursuing a Bachelor's degree in Computer Science and Engineering...</h3>
-<!-- <div><p> <img width="150" align='left' src="Octocat/octocat-1720873444543.png"></p> -->
-<br>
-<!-- I have a keen interest in programming and love to learn new languages💻...<br>
-I'm quite passionate about learning and sharing my knowledge.<br>
-I'm particularly passionate about Python and C++, and I enjoy diving into web development and game development. <br>
-I'm always eager to learn and embrace new challenges in the tech world🚀...<br></div> -->
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aryan
+=============================================================================================================================
 
+Web Developer and Coder
+-----------------------
 
+Have been honing coding skills for several years and has hands-on experience in web development
 
-<br><br>
-
-### Stats:
-
-![](https://komarev.com/ghpvc/?username=iotaARYAN21&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
-<br>
-
-<p align="left>
-
-![github-stats](https://stats.dooboo.io/api/github-stats?login=iotaARYAN21)
-
-    
-</p>
-
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=iotaARYAN21&theme=darkhub&title=-Issues,-Reviews" alt="iotaARYAN21" /></p>
-
-
+*   🌍  I'm based in India
+*   ✉️  You can contact me at [aryan0312g@gmail.com](mailto:aryan0312g@gmail.com)
+*   🧠  I'm learning DSA and Web Development<a href="https://www.x.com/aryan0312g?t=RPu_YTsUvYxXw2XIa9sdsA&s=09" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/aryan0312g?t=RPu_YTsUvYxXw2XIa9sdsA&s=09?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
+                /></a>### Skills 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=iotaARYAN21&show_icons=true&theme=github_dark&border_radius=30" alt="iotaARYAN21's GitHub stats" />
-</p>
-
-
-
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=iotaARYAN21&theme=highcontrast&border_radius=30" alt="GitHub Streak" />
-</p>
-
-<p align="left"> 
-<a href="https://leetcode.com/Aryan_0312g/"><img width="48%" src="https://leetcode.card.workers.dev/Aryan_0312g?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-</p> 
-
-
-
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iotaARYAN21&size_weight=0.5&count_weight=0.5&theme=github_dark&langs_count=10&layout=donut&border_radius=30&hide=G-code" alt="Top Languages Used" />
-</p>
-<br>
-
-
-<h3>Skills:</h3>
-<!-- <div><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="left" alt="python" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" />   <a href="https://gcc.gnu.org/" target="_blank" rel="noreferrer"><img align="left" alt="cpp" width="50px" height="50px"  src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" /></a>
-<a href="https://gcc.gnu.org/" target="_blank" rel="noreferrer"><img align="left" alt="c" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="left" alt="js" width="50px" height="50px"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img align="left" alt="ts" width="50px" height="50px"  src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/XML" target="_blank" rel="noreferrer"><img align="left" alt="xml" width="50px"  height="50px" src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" /></a><a="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img align="left" alt="css" width="50px"  height="50px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img align="left" alt="html" width="50px"  height="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" /></a><a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img align="left" alt="nodejs" width="50px"  height="50px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /></a> -->
-
-<br><br>
-<br>
-<br><br>
-
-
-<br>
-
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://codesandbox.io/u/iotaaryan21" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://discord.com/users/aryan007231" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.github.com/iotaARYAN21" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="http://www.instagram.com/aryan.0312g?igsh=MXduc2xqbGV2cDIxeQ==" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/aryan-b34639288" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.x.com/aryan0312g?t=RPu_YTsUvYxXw2XIa9sdsA&s=09" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/iotaARYAN21"><img src="https://github-readme-stats.vercel.app/api?username=iotaARYAN21&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="iotaARYAN21's GitHub stats" /></a><a
+                      href="http://www.github.com/iotaARYAN21"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=iotaARYAN21&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/iotaARYAN21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iotaARYAN21&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
